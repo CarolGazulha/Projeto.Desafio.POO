@@ -2,48 +2,28 @@
 
 ## 🖱 Aprendendo na prática Programação Orientada a Objetos
 
-#### 📍 Descrição do projeto
+### 📍 Descrição do projeto
+Projeto proposto no bootcamp Santander Code Girls pela plaforma DIO com objetivo de aprender na pratica Programação Orientada a Objeto 
+aplicando conceitos como Abstração, Encapsulamento, Herança e Polimorfismo através de um projeto Java. 
 
+### ✔ Finalidade:
+
+* Abstrair o Domíno Bootcamp e modelar seus Atributos e Métodos.
+* Criar Classes, e também relacioná-las.
+   * Bootcamp, 
+   * Cursos,
+   * Mentorias 
+   * Devs  
+* Modelar as Classes criadas e a partir daí criar Atributos e Métodos
+* Utilizar e aplicar algumas das ferramentas que o PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO) nos oferece: 
+  * Abstração, 
+  * Encapsulamento, 
+  * Herança
+  * Polimorfismo
 
 _____________
 ## 🛠️ Status do Projeto
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge)
 
 _____________
 
-
-
-
-
-
-## 🔍 Referências bibliograficas:
-
-
-
-
-
-
-____
-
-
-## 🧩 Contribuição
-Este repositório foi criado com intuito de compartilhar meus estudos e o que venho aprendendo em C#
-
-
-Você também pode contribuir com ele fique à vontade.
-
-
-Se o conteúdo aqui te ajudou de alguma forma  
-  * ⭐  no projeto 
- 
- Caso encontre algum erro você pode
-   * ⚠abrir uma issues
- 
- Vou adorar saber o que achou! 🤗
-
-
-___
-![Badge Linkedin](https://img.shields.io/badge/Rede-Linkedin-blue)
-  <details><summary>Linkedin</summary>
-(https://www.linkedin.com/in/caroline-gazulha/)
-</details>
